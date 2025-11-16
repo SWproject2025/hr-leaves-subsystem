@@ -1,2 +1,0 @@
-# hr-leaves-subsystem
-Luna
